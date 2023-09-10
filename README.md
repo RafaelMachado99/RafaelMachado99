@@ -4,7 +4,7 @@
 
 - 📚 My github is for my own studies!
 - PUCRS | Software Engineering | 2° semester
-- I'm more confortable with Front-End ([![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev))
+- I'm more confortable with Front-End https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
 - Right now I'm studying [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) and [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <!--
 **RafaelMachado99/RafaelMachado99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
